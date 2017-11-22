@@ -1,0 +1,5 @@
+com\test\jpa\JpaApplication.class
+com\test\jpa\bean\User.class
+com\test\jpa\business\controller\TestController.class
+com\test\jpa\business\service\UserService.class
+com\test\jpa\business\dao\UserRepository.class
